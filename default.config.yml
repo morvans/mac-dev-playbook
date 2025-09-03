@@ -37,6 +37,7 @@ homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - autoconf
   - bash-completion
+  - ddev/ddev/ddev
   - docker
   - git
   - lima
